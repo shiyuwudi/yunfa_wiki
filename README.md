@@ -5,6 +5,8 @@
 [点击查看文章](https://github.com/shiyuwudi/yunfa_wiki/wiki)
 
 ## 更新日志
+### 2019年12月12日
+* 新增文献：[跑车理论](https://github.com/shiyuwudi/yunfa_wiki/wiki/跑车理论)
 ### 2019年11月25日
 * 新增文章：[996圣旨](https://github.com/shiyuwudi/yunfa_wiki/wiki/996圣旨)
 * 新增人物：[HR之神-圣母玛利亮](https://github.com/shiyuwudi/yunfa_wiki/wiki/HR之神-圣母玛利亮)
