@@ -5,6 +5,9 @@
 [点击查看文章](https://github.com/shiyuwudi/yunfa_wiki/wiki)
 
 ## 更新日志
+### 2020年7月3日
+* 补充词条：[罚TD](https://github.com/shiyuwudi/yunfa_wiki/wiki/罚TD)
+* 完善人物：[背锅之王-良罚哥](https://github.com/shiyuwudi/yunfa_wiki/wiki/背锅之王-良罚哥)
 ### 2019年12月27日
 * 补充要闻内容，更新TFS项目情况，参考[心累：熬了一个多月，终于到达极限，被诅咒的测试工位迎来第二位离职员工](https://github.com/shiyuwudi/yunfa_wiki/wiki/心累：熬了一个多月，终于到达极限，被诅咒的测试工位迎来第二位离职员工)
 ### 2019年12月12日
