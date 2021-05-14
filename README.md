@@ -5,6 +5,8 @@
 [点击查看文章](https://github.com/shiyuwudi/yunfa_wiki/wiki)
 
 ## 更新日志
+### 2021年5月14日
+* 补充词条：[云罚守门员](https://github.com/shiyuwudi/yunfa_wiki/wiki/云罚守门员)
 ### 2020年7月3日
 * 补充词条：[罚TD](https://github.com/shiyuwudi/yunfa_wiki/wiki/罚TD)
 * 完善人物：[背锅之王-良罚哥](https://github.com/shiyuwudi/yunfa_wiki/wiki/背锅之王-良罚哥)
