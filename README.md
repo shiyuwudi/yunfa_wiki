@@ -6,7 +6,7 @@
 
 ## 更新日志
 ### 2024年10月24日
-* 补充词条：[金睛大网吧](https://github.com/shiyuwudi/yunfa_wiki/wiki/金睛大网吧)
+* 补充词条：[大网吧](https://github.com/shiyuwudi/yunfa_wiki/wiki/大网吧)
 ### 2021年5月14日
 * 补充词条：[云罚守门员](https://github.com/shiyuwudi/yunfa_wiki/wiki/云罚守门员)
 ### 2020年7月3日
